@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Rounded-MPlus Regular';
+	src: url(/fonts/rounded-mplus-1c-medium.ttf);
+}
+
+@font-face {
+	font-family: 'Rounded-MPlus Bold';
+	src: url(/fonts/rounded-mplus-1c-bold.ttf);
+}
+
+.mplus-bold {
+    font-family: Rounded-MPlus Bold!important;
+}
+
+.mplus {
+    font-family: Rounded-MPlus Regular!important;
+}

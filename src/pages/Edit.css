@@ -1,0 +1,23 @@
+.ui.input>input {
+    font-family: Rounded-MPlus Regular;
+}
+
+.hover {
+    opacity: 0.8;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.confirm-button {
+    margin-top: 1%;
+}
+
+.calender-title {
+    padding-top: 25px !important;
+}
+
+.calender-title .ui.input>input {
+    font-family: Rounded-MPlus Bold;
+}
